@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se utilizar o Observatório em investigação, relatório ou publicação, cite este software e a respetiva documentação."
+title: "Observatório Estatístico e Longitudinal da Mobilidade Docente"
+type: software
+version: "6.0.0"
+date-released: "2026-08-20"
+authors:
+  - family-names: "Fernandes"
+    given-names: "Manuel P."
+  - family-names: "Serra"
+    given-names: "Pedro"
+abstract: >-
+  Aplicação web estática para exploração descritiva e longitudinal da Mobilidade Interna docente,
+  cobrindo o período 2016/2017–2026/2027 e incluindo indicadores escolares, redes de mobilidade,
+  comparação QA/QE vs QZP, persistência longitudinal, trajetórias anonimizadas e transições de Markov.
+keywords:
+  - mobilidade docente
+  - administração educativa
+  - concursos docentes
+  - análise longitudinal
+  - redes
+  - educação
+license: MIT
